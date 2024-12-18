@@ -15,7 +15,7 @@
       "nombre": "Fernando Gonzalo",
       "apellido": "Herrera Francesconi",
       "usuario": "usuario2",
-      "correo": "usuario2@gmail.cl",
+      "correo": "f.herrera@profesor.duoc.cl",
       "contrasenia": "duoc1234",
       "imagen": "",
       "isactive": true
@@ -25,7 +25,7 @@
       "nombre": "Jorge Leoplod",
       "apellido": "Guzman Bozo",
       "usuario": "usuario3",
-      "correo": "usuario3@gmail.cl",
+      "correo": "j.guzman@profesor.duoc.cl",
       "contrasenia": "duoc1234",
       "imagen": "",
       "isactive": true
@@ -35,7 +35,7 @@
       "nombre": "Isidora Paz",
       "apellido": "Jorquiera Montero",
       "usuario": "usuario4",
-      "correo": "usuario4@gmail.cl",
+      "correo": "i.jorquiera@profesor.duoc.cl",
       "contrasenia": "duoc1234",
       "imagen": "",
       "isactive": true
@@ -45,7 +45,7 @@
       "nombre": "Jorge Antonio",
       "apellido": "Astudillo Ugalde",
       "usuario": "usuario5",
-      "correo": "usuario5@gmail.cl",
+      "correo": "j.astudillo@profesor.duoc.cl",
       "contrasenia": "duoc1234",
       "imagen": "",
       "isactive": true
@@ -55,7 +55,7 @@
       "nombre": "Gabriel Salvador",
       "apellido": "Straube Vergara",
       "usuario": "usuario6",
-      "correo": "usuario6@gmail.cl",
+      "correo": "g.straube.duoc.cl",
       "contrasenia": "duoc1234",
       "imagen": "",
       "isactive": true
